@@ -1,96 +1,34 @@
 {
-  "content": [
+  "payments": [
     {
-      "id": 23,
-      "material": {
-        "id": 2,
-        "name": "테스트원자재2",
-        "code": "TEST1",
-        "quantity": 993,
-        "type": "MAIN",
-        "supplyType": "INDIRECT",
-        "unit": "KG",
-        "note": "",
-        "createdAt": "2024-01-18 16:42"
-      },
-      "partnerCompany": null,
-      "quantity": 1,
-      "preQuantity": 997,
-      "price": null,
-      "regDate": "2024-01-01",
-      "type": "RELEASE",
-      "detailType": "CREATE",
-      "note": "생산투입에 의한 출고",
-      "createdAt": "2024-02-13 14:39"
+      "id": "728ed52f",
+      "amount": 100,
+      "status": "pending",
+      "email": "m@example.com"
     },
     {
-      "id": 22,
-      "material": {
-        "id": 2,
-        "name": "테스트원자재2",
-        "code": "TEST1",
-        "quantity": 993,
-        "type": "MAIN",
-        "supplyType": "INDIRECT",
-        "unit": "KG",
-        "note": "",
-        "createdAt": "2024-01-18 16:42"
-      },
-      "partnerCompany": null,
-      "quantity": 1,
-      "preQuantity": 998,
-      "price": null,
-      "regDate": "2024-01-01",
-      "type": "RELEASE",
-      "detailType": "CREATE",
-      "note": "생산투입에 의한 출고",
-      "createdAt": "2024-02-13 14:39"
+      "id": "489e1d42",
+      "amount": 125,
+      "status": "processing",
+      "email": "example@gmail.com"
     },
     {
-      "id": 17,
-      "material": {
-        "id": 3,
-        "name": "플라스틱",
-        "code": "PLA",
-        "quantity": 297,
-        "type": "MAIN",
-        "supplyType": "DIRECT",
-        "unit": "KG",
-        "note": "string",
-        "createdAt": "2024-01-31 14:40"
-      },
-      "partnerCompany": null,
-      "quantity": 1,
-      "preQuantity": 100,
-      "price": null,
-      "regDate": "2024-01-01",
-      "type": "RELEASE",
-      "detailType": "CREATE",
-      "note": "생산투입에 의한 출고",
-      "createdAt": "2024-02-01 10:13"
+      "id": "d6b3b6f2",
+      "amount": 200,
+      "status": "pending",
+      "email": "invigoworks@co.kr"
     },
     {
-      "id": 16,
-      "material": {
-        "id": 2,
-        "name": "테스트원자재2",
-        "code": "TEST1",
-        "quantity": 993,
-        "type": "MAIN",
-        "supplyType": "INDIRECT",
-        "unit": "KG",
-        "note": "",
-        "createdAt": "2024-01-18 16:42"
-      },
-      "partnerCompany": null,
-      "quantity": 2,
-      "preQuantity": 1000,
-      "price": null,
-      "regDate": "2024-01-01",
-      "type": "RELEASE",
-      "detailType": "CREATE",
-      "note": "생산투입에 의한 출고",
-      "createdAt": "2024-02-01 10:13"
+      "id": "j2q3b6f4",
+      "amount": 300,
+      "status": "success",
+      "email": "naver@daum.net"
+    },
+    {
+      "id": "f6b2i6f7",
+      "amount": 400,
+      "status": "failed",
+      "email": "kakao@daum.net"
     }
   ]
 }
