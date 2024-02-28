@@ -1,0 +1,96 @@
+{
+  "content": [
+    {
+      "id": 23,
+      "material": {
+        "id": 2,
+        "name": "테스트원자재2",
+        "code": "TEST1",
+        "quantity": 993,
+        "type": "MAIN",
+        "supplyType": "INDIRECT",
+        "unit": "KG",
+        "note": "",
+        "createdAt": "2024-01-18 16:42"
+      },
+      "partnerCompany": null,
+      "quantity": 1,
+      "preQuantity": 997,
+      "price": null,
+      "regDate": "2024-01-01",
+      "type": "RELEASE",
+      "detailType": "CREATE",
+      "note": "생산투입에 의한 출고",
+      "createdAt": "2024-02-13 14:39"
+    },
+    {
+      "id": 22,
+      "material": {
+        "id": 2,
+        "name": "테스트원자재2",
+        "code": "TEST1",
+        "quantity": 993,
+        "type": "MAIN",
+        "supplyType": "INDIRECT",
+        "unit": "KG",
+        "note": "",
+        "createdAt": "2024-01-18 16:42"
+      },
+      "partnerCompany": null,
+      "quantity": 1,
+      "preQuantity": 998,
+      "price": null,
+      "regDate": "2024-01-01",
+      "type": "RELEASE",
+      "detailType": "CREATE",
+      "note": "생산투입에 의한 출고",
+      "createdAt": "2024-02-13 14:39"
+    },
+    {
+      "id": 17,
+      "material": {
+        "id": 3,
+        "name": "플라스틱",
+        "code": "PLA",
+        "quantity": 297,
+        "type": "MAIN",
+        "supplyType": "DIRECT",
+        "unit": "KG",
+        "note": "string",
+        "createdAt": "2024-01-31 14:40"
+      },
+      "partnerCompany": null,
+      "quantity": 1,
+      "preQuantity": 100,
+      "price": null,
+      "regDate": "2024-01-01",
+      "type": "RELEASE",
+      "detailType": "CREATE",
+      "note": "생산투입에 의한 출고",
+      "createdAt": "2024-02-01 10:13"
+    },
+    {
+      "id": 16,
+      "material": {
+        "id": 2,
+        "name": "테스트원자재2",
+        "code": "TEST1",
+        "quantity": 993,
+        "type": "MAIN",
+        "supplyType": "INDIRECT",
+        "unit": "KG",
+        "note": "",
+        "createdAt": "2024-01-18 16:42"
+      },
+      "partnerCompany": null,
+      "quantity": 2,
+      "preQuantity": 1000,
+      "price": null,
+      "regDate": "2024-01-01",
+      "type": "RELEASE",
+      "detailType": "CREATE",
+      "note": "생산투입에 의한 출고",
+      "createdAt": "2024-02-01 10:13"
+    }
+  ]
+}
